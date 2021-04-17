@@ -1,5 +1,6 @@
 # Foobar GoogleChallenges!
 My attempt for the Google Foobar challenges!
+
 (Link to the post on LinkedIn - https://www.linkedin.com/feed/update/urn:li:activity:6787400322303188992/)
 
 Google Foobar is a hidden challenge by Google, which invites you to participate directly from the search page. It has 5 levels, with increasing difficulty and a very generous time limit for each problem.
