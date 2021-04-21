@@ -1,4 +1,4 @@
-# Foobar GoogleChallenges!
+# Foobar Google Challenges!
 My attempt for the Google Foobar challenges!
 
 (Link to the post on LinkedIn - https://www.linkedin.com/feed/update/urn:li:activity:6787400322303188992/)
